@@ -911,8 +911,7 @@ footer p:first-child {
 /* Ảnh trong bài */
 .story-image {
     width: min(1100px, calc(100vw - 48px));
-    margin: 56px 50%;
-    transform: translateX(-50%);
+    margin: 56px auto;
 }
 
 .story-image img {
